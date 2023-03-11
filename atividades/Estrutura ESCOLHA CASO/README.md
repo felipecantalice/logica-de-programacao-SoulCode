@@ -8,7 +8,6 @@
 
 3) Sair
 
-
 Em cada uma das opções coloque a mensagem (Você entrou em um menu)
 
 ```javascript
